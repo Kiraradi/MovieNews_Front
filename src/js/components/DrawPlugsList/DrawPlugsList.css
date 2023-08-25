@@ -1,0 +1,39 @@
+.plug-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.plug-title {
+    width: 40%;
+    height: 15px;
+    background-color: rgb(180, 180, 180);
+
+}
+
+.plug-img {
+    width: 60px;
+    height: 50px;
+    background-color: rgb(180, 180, 180);;
+}
+
+.plug-description {
+    width: 100%;
+    height: 50px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.plug-description-item {
+    background-color: rgb(180, 180, 180);
+    width: 100%;
+    height: 15px;
+}
+
+.description-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}

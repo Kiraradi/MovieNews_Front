@@ -1,0 +1,19 @@
+.news-Wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.news-Title {
+    font-size: 16px;
+    text-decoration: underline;
+}
+
+.news-Img {
+    width: 60px;
+}
+
+.description-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
